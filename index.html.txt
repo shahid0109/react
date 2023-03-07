@@ -1,0 +1,11 @@
+<html>
+	<head>
+		<title>E code</title>
+
+	</head>
+	<body>
+	<p>HELLO WORLD!! THIS IS SHAHID'S WEBSITE</p>
+
+	</body>
+
+</html>
